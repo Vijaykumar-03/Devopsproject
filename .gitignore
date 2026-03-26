@@ -1,0 +1,17 @@
+
+# Node
+node_modules/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# AWS CLI zip
+awscliv2.zip
+
+# Logs
+*.log
+
+# Env
+.env
